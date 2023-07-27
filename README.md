@@ -1,4 +1,6 @@
 # Hulu-ClonePage
+![image](https://github.com/CoderX-Officials/Hulu-ClonePage/assets/121545998/28caf9a9-7089-4b1b-9268-fdf4b2bf8b06)
+
 All Rights Reserved. Designed by CoderX-Shantanu Vedante 2023 
 Hulu Landing Page Clone
 
